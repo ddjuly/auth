@@ -13,7 +13,7 @@
             "src/commands"
         ],
         "psr-4": {
-            "ddjuly\\auth\\": "src/auth/"
+            "ddjuly\\auth\\": ""
         }
     },
 }
