@@ -1,7 +1,7 @@
 {
     "name": "ddjuly/auth",
     "description": "laravel auth",
-    require": {
+    "require": {
     	"php": ">=7.0"
     },
     "homepage": "https://github.com/ddjuly/auth.git",
