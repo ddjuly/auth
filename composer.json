@@ -1,0 +1,19 @@
+{
+    "name": "ddjuly/auth",
+    "description": "laravel auth",
+    require": {
+    	"php": ">=7.0"
+    },
+    "homepage": "https://github.com/ddjuly/auth.git",
+	"support": {  
+		"source": "https://github.com/ddjuly/auth.git"  
+	}, 
+	"autoload": {
+        "classmap": [
+            "src/commands"
+        ],
+        "psr-4": {
+            "ddjuly\\auth\\": "src/auth/"
+        }
+    },
+}
